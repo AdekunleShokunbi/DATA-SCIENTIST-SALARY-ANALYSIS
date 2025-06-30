@@ -13,10 +13,10 @@ Some questions were drafted to serve as a guide in carrying out the analysis
 8. what do people earn based on  work type
 9. What are the top 10 average salary for different job titles?
 
-DATA CLEANING 
+## DATA CLEANING 
 Data cleaning was conducted on Excel to make the data more usable for analysis
 
-INSIGHTS
+## INSIGHTS
 After the analysis, some of the insights generated from the data were;
 1. The United States of America has a larger number of companys and employees as compared to the other countries hence, making it the highest employer of data scientist related roles
 2. On-site workers get higher pay than workers who work remotely.
